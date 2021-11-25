@@ -49,7 +49,7 @@
 [23] Jiale Qiao, Jindong Zhang*, Yuze Wang, Chenhui Yu, Sai Gao, A Multi-sensor Fusion System for Embedded Devices  Considering by Sensor Reliability, 2019
 [24] Yuze Wang, Jindong Zhang*, Jiale Qiao, An Information Entropy-based Method of Evidential Source Separation and Refusion，2020
 [25] Hangtian He, Haiyan Wang, Hao Zhang, Qing Liu, Jindong Zhang*, Research on Location Method of Vehicle Trajectory Based on Intelligent Terminal，2020
-[26] Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2020
+[26] Junshu Zhang，Jindong Zhang*，Botao Chen，Jian Gao，Shanwei Ji，Xiaolong Zhang，Zhaodan Wang，A perspective transformation method based on computer vision，2020
 [27] Dongqi Han，Jindong Zhang*，Yang Liu，Peibin Wu，Yiding Sun，Real-time Feedback Watermarking Authentication Scheme for Streaming Media, 2020
 [28] Yang Liu，Jindong Zhang*，Dongqi Han，Peibin Wu，Yiding Sun，Young Shik Moon，A multidimensional chaotic image encryption algorithm based on the region of interest，2020
 [29]Jiale Qiao, Jindong Zhang*, Yuze Wang, An improved multi-sensor D–S rule for conflict reassignment of failure rate of set，2020
@@ -57,10 +57,10 @@
 [31]Jiabin Xu, Jindong Zhang*, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An APF-ACO Algorithm for Automatic Defect Detection on Vehicle Paint，2020
 [32]Tong Liu, Jindong Zhang*, Kunpeng Zhang, Jiabin Xu, Donghui Wang, Xue wang，Vehicle-mounted surround vision algorithm based on heterogeneous architecture, 2020
 [33]Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020
-[34]Junshu Zhang，Jindong Zhang*，Botao Chen，Jian Gao，Shanwei Ji，Xiaolong Zhang，Zhaodan Wang，A perspective transformation method based on computer vision，2020
+[34]Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021
 [35]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021
 
-着作教材：
+著作教材：
 汽车软件开放式系统架构，机械工业出版社
 获奖情况：
 获得省部级科学技术一等奖2项
