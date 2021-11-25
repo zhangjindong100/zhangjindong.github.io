@@ -1,14 +1,17 @@
 # zhangjindong.github.io
-# 所在学科专业：计算机应用技术
-# 所研究方向：嵌入式系统、机器视觉、机器学习，及其在无人驾驶汽车、工业等领域的应用
-讲授课程：嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用
-工作经历：
+# 所在学科专业：
+计算机应用技术
+# 所研究方向：
+嵌入式系统、机器视觉、机器学习，及其在无人驾驶汽车、工业等领域的应用
+# 讲授课程：
+嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用
+# 工作经历：
 现为，吉林大学计算机科学与技术学院，副教授，博士生导师
 2009–至今，吉林大学汽车电子控制关键技术创新团队，成员
 2017-2018，Korea，Hanyang University，Visiting Professor
 2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后
 2003-2009，吉林大学计算机科学与技术学院，硕士、博士
-科研项目：
+# 科研项目：
 作为项目负责人主持国家自然科学基金项目、省科技厅项目等
 [1]异构开放嵌入式软件平台研究-1，国家重点研发项目，负责人
 [2]基于机器学习的汽车协同式自适应巡航控制机理研究，国家自然基金项目，负责人
@@ -19,7 +22,7 @@
 [7]汽车A柱透视化可视软件，负责人
 [8]可内嵌MES的先进计划排程APS软件，负责人
 [9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人
-学术论文：
+# 学术论文：
 国外期刊和国际学术会议上发表论文近期：
 [1] Zhang Jindong, Feng Yujie, Shi Feifei, Wang Gang, Ma Bin, Li Ruisheng. Vehicle routing in urban areas based on the OCW-Dijkstra algorithm, IET Intelligent Transport Systems, 2016
 [2] Zhang Jindong, Li Jinfeng. Integration of scanning and image processing algorithms for lane detection based on fuzzy method，Journal of Intelligent & Fuzzy Systems，2015
