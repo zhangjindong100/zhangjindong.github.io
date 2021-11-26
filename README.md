@@ -4,12 +4,19 @@
 # 讲授课程：嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用
 # 工作经历：
 现为，吉林大学计算机科学与技术学院，副教授，博士生导师
+
 现为，中国汽车技术研究中心工程院，特聘专家
+
 现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员
+
 2009–至今，吉林大学汽车电子控制关键技术创新团队，成员
+
 2017-2018，Korea，Hanyang University，Visiting Professor
+
 2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后
+
 2003-2009，吉林大学计算机科学与技术学院，硕士、博士
+
 # 科研项目：作为项目负责人主持国家自然科学基金项目、省科技厅项目等
 [1]异构开放嵌入式软件平台研究-1，国家重点研发项目，负责人
 
@@ -30,6 +37,7 @@
 [9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人
 # 学术论文：
 国外期刊和国际学术会议上发表论文近期：
+
 [1] Zhang Jindong, Feng Yujie, Shi Feifei, Wang Gang, Ma Bin, Li Ruisheng. Vehicle routing in urban areas based on the OCW-Dijkstra algorithm, IET Intelligent Transport Systems, 2016
 
 [2] Zhang Jindong, Li Jinfeng. Integration of scanning and image processing algorithms for lane detection based on fuzzy method，Journal of Intelligent & Fuzzy Systems，2015
