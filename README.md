@@ -58,7 +58,9 @@
 [8]可内嵌MES的先进计划排程APS软件，负责人
 
 [9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人
+
 # 学术论文：
+
 国外期刊和国际学术会议上发表论文近期：
 
 [1] Zhang Jindong, Feng Yujie, Shi Feifei, Wang Gang, Ma Bin, Li Ruisheng. Vehicle routing in urban areas based on the OCW-Dijkstra algorithm, IET Intelligent Transport Systems, 2016
