@@ -6,7 +6,7 @@
 
 # 研究方向
 
-$\color{red}{嵌入式系统}$
+<font color=red>要设置颜色的文字</font>
 
 机器视觉
 
