@@ -1,11 +1,11 @@
 <h1 style="text-align:center">机器视觉与智能计算</h1>
 
 
-学科专业
+学科专业:
 
 <font color=blue>计算机应用技术</font><br />
 
-研究方向
+研究方向:
 
 <font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
 
