@@ -6,8 +6,7 @@
 
 # 研究方向
 
-<font color=blue>嵌入式系统</font>
-
+<font color=blue>嵌入式系统</font><br />
 
 机器视觉
 
