@@ -6,7 +6,8 @@
 
 # 研究方向
 
-<font color=red>要设置颜色的文字</font>
+<font color=blue>嵌入式系统</font>
+
 
 机器视觉
 
