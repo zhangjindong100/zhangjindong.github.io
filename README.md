@@ -53,7 +53,7 @@
 <font color=blue>[8] XueYang，ZhaoGuanyu，ZhangJindong*，Liu Liu，WuXingchen， LiYahui，An acceleration compensation smoothing approach for communicating in DSRC-based CACC system，Journal of Computational InformationSystems，2014.</font><br />
 <font color=blue>[9] Zhang Jindong，QinGuihe，LiuYe，Speech separation in the vehicle environment based on fastICAalgorithm，Journal of Multimedia，2012.</font><br />
 <font color=blue>[10] Zhang Jindong, GaoZhenhai, Lin Qin. Research and Construction on Simulation Traffic Environment with Inter-car Communication. Advanced Materials Research，2011.</font><br />
-<font color=blue>[11] Zhang Jindong, GaoZhenhai. Research and Design the Primary Two Vehicles Communication System. Advanced Materials Research，Vols. 143-144 (2011):328-332.</font><br />[11] Zhang Jindong, GaoZhenhai. Research and Design the Primary Two Vehicles Communication System. Advanced Materials Research，Vols. 143-144 (2011):328-332.
+<font color=blue>[11] Zhang Jindong, GaoZhenhai. Research and Design the Primary Two Vehicles Communication System. Advanced Materials Research，Vols. 143-144 (2011):328-332.</font><br />
 <font color=blue>[12] Zhang Jindong, Li Hongjian. Research on Vehicle Lane Keeping Driving Secure Technology Based on Canny-Hough Algorithm. Computer Science Applications and Education，2011.</font><br />
 <font color=blue>[13] Peng-cheng Ding, Jin-dong Zhang*, Yang-hao Zhou, Hong-liang LIU, Xiao Wang, Anti-Collision Warning Algorithm Based on Visual Perception in Front of Vehicle, 2017</font><br />
 <font color=blue>[14] Chao Sun, Jindong Zhang*, Jiajia Lin, Rui Song, Xuan Zang, Xiaohan Liu, Design and implementation of Judge System for Old Man Fall Down, 2017</font><br />
