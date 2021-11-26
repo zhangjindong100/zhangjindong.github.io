@@ -1,4 +1,4 @@
-<h1 style="text-align:center">机器视觉与智能计算</h1>机器视觉与智能计算
+<h1 style="text-align:center">机器视觉与智能计算</h1>
 
 
 学科专业
