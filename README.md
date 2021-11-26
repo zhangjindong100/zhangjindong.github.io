@@ -16,7 +16,7 @@
 
 
 
-# 工作经历：
+工作经历：
 
 <font color=blue>现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
 <font color=blue>现为，中国汽车技术研究中心工程院，特聘专家</font><br />
@@ -26,7 +26,7 @@
 <font color=blue>2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
 <font color=blue>2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
 
-# 科研项目
+科研项目
 
 <font color=blue>[1]异构开放嵌入式软件平台研究-1，国家重点研发项目，负责人</font><br />
 <font color=blue>[2]基于机器学习的汽车协同式自适应巡航控制机理研究，国家自然基金项目，负责人</font><br />
@@ -38,7 +38,7 @@
 <font color=blue>[8]可内嵌MES的先进计划排程APS软件，负责人</font><br />
 <font color=blue>[9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人</font><br />
 
-# 学术论文：
+学术论文：
 
 <font color=blue>国外期刊和国际学术会议上近期发表论文：</font><br />
 <font color=blue>[1] Zhang Jindong, Feng Yujie, Shi Feifei, Wang Gang, Ma Bin, Li Ruisheng. Vehicle routing in urban areas based on the OCW-Dijkstra algorithm, IET Intelligent Transport Systems, 2016</font><br />
