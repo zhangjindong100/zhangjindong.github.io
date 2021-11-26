@@ -112,8 +112,11 @@
 [35]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021
 
 著作教材：
+
 汽车软件开放式系统架构，机械工业出版社
+
 获奖情况：
+
 获得省部级科学技术一等奖2项
 
 [1] 车上总线网络及其多媒体系统的关键技术与应用，中国商业联合会，技术开发类，一等奖，2014
@@ -121,6 +124,7 @@
 [2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
 
 发明专利12项，软件著作权10项
+
 社会兼职：
 
 IEEE Transactions on Intelligent Transportation Systems，审稿人
