@@ -22,7 +22,7 @@
 <font color=blue>现为，中国汽车技术研究中心工程院，特聘专家</font><br />
 <font color=blue>现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
 <font color=blue>2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
-<font color=blue>Korea，Hanyang University，Visiting Professor</font><br />
+<font color=blue>2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
 <font color=blue>2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
 <font color=blue>2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
 
