@@ -13,25 +13,20 @@
 # 讲授课程：
 
 <font color=blue>嵌入式系统与结构</font><br />
-<font color=blue>嵌入式Linux系统分析与应用</font><br />嵌入式Linux系统分析与应用
+<font color=blue>嵌入式Linux系统分析与应用</font><br />
 <font color=blue>传感器技术</font><br />
 
 
 
 # 工作经历：
-现为，吉林大学计算机科学与技术学院，副教授，博士生导师
 
-现为，中国汽车技术研究中心工程院，特聘专家
-
-现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员
-
-2009–至今，吉林大学汽车电子控制关键技术创新团队，成员
-
-2017-2018，Korea，Hanyang University，Visiting Professor
-
-2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后
-
-2003-2009，吉林大学计算机科学与技术学院，硕士、博士
+<font color=blue>现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
+<font color=blue>现为，中国汽车技术研究中心工程院，特聘专家</font><br />
+<font color=blue>现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
+<font color=blue>2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
+<font color=blue>Korea，Hanyang University，Visiting Professor</font><br />
+<font color=blue>2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
+<font color=blue>2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
 
 # 科研项目
 
@@ -137,14 +132,14 @@
 
 获得省部级科学技术一等奖2项
 
-[1] 车上总线网络及其多媒体系统的关键技术与应用，中国商业联合会，技术开发类，一等奖，2014
-
-[2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
+<font color=blue>[1] 车上总线网络及其多媒体系统的关键技术与应用，中国商业联合会，技术开发类，一等奖，2014
+</font><br />
+<font color=blue>[2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
+</font><br /
 
 发明专利12项，软件著作权10项
 
 社会兼职：
 
-IEEE Transactions on Intelligent Transportation Systems，审稿人
-
-World Journal of Modelling and Simulation，审稿人
+<font color=blue>IEEE Transactions on Intelligent Transportation Systems，审稿人</font><br />
+<font color=blue>World Journal of Modelling and Simulation，审稿人</font><br />
