@@ -11,9 +11,7 @@
 
 讲授课程：
 
-<font color=blue>嵌入式系统与结构</font><br />
-<font color=blue>嵌入式Linux系统分析与应用</font><br />
-<font color=blue>传感器技术</font><br />
+<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术</font><br />
 
 
 
