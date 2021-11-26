@@ -1,16 +1,16 @@
 # 机器视觉与智能计算
 
-# 学科专业
+学科专业
 
 <font color=blue>计算机应用技术</font><br />
 
-# 研究方向
+研究方向
 
 <font color=blue>嵌入式系统</font><br />
 <font color=blue>机器视觉</font><br />
 <font color=blue>机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
 
-# 讲授课程：
+讲授课程：
 
 <font color=blue>嵌入式系统与结构</font><br />
 <font color=blue>嵌入式Linux系统分析与应用</font><br />
