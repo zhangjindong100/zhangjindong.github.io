@@ -12,7 +12,7 @@
 
 讲授课程：
 
-<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术</font><br />
+<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用、汽车电子软件编程技术</font><br />
 
 
 
@@ -78,6 +78,9 @@
 <font color=blue>[33]Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020</font><br />
 <font color=blue>[34]Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021</font><br />
 <font color=blue>[35]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021</font><br />
+<font color=blue>[36]Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
+<font color=blue>[37]Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
+<font color=blue>[38]Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
 
 著作教材：
 
@@ -90,7 +93,13 @@
 </font><br />
 <font color=blue>[2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
 </font><br />
-<font color=blue>发明专利29项，软件著作权10项</font><br />
+<font color=blue>发明专利30余项，软件著作权10项</font><br />
+
+吉林大学优秀学位论文：
+
+<font color=blue>[1]2019年：尹雪龙《基于全景视觉的汽车驾驶辅助技术研究》</font><br />
+<font color=blue>[2]2021年：刘通《车载环视算法的泊车辅助系统的研究与实现》</font><br />
+<font color=blue>[3]2021年：徐嘉斌《基于进化算法的车漆缺陷检测方法研究》</font><br />
 
 社会兼职：
 
