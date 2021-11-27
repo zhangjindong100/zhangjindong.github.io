@@ -93,7 +93,43 @@
 </font><br />
 <font color=blue>[2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
 </font><br />
-<font color=blue>发明专利30余项，软件著作权10项</font><br />
+
+发明专利：
+
+<font color=blue>[1] 车辆间行驶状态数据无线通信控制器及其控制方法</font><br />
+<font color=blue>[2] 一种车道线识别的方法</font><br />
+<font color=blue>[3] 具有学习能力的汽车协同式自适应巡航控制系统及方法</font><br />
+<font color=blue>[4] 汽车协同编队行驶的动态路径规划方法</font><br />
+<font color=blue>[5] 一种十字路口交通信号灯实时动态配时的方法</font><br />
+<font color=blue>[6] 一种汽车行驶路径规划方法</font><br />
+<font color=blue>[7] 一种控制汽车以簇形式编队行驶的方法</font><br />
+<font color=blue>[8] CACC驾驶员肢体肌电信号表征的操纵意图预测方法</font><br />
+<font color=blue>[9] CACC驾驶员肢体等速多通道肌电信号特征提取方法</font><br />
+<font color=blue>[10] 一种图像加密的方法</font><br />
+<font color=blue>[11] 色彩自然匹配与显示区自然融合的盲区透视化显示方法</font><br />
+<font color=blue>[12] 视觉感知的汽车前视车辆和行人防碰撞预警系统及方法</font><br />
+<font color=blue>[13] 一种视觉自适应调节显示装置及方法</font><br />
+<font color=blue>[14] 一种基于DNA编码的图像加密方法</font><br />
+<font color=blue>[15] 一种无人车多传感器信息实时融合的方法</font><br />
+<font color=blue>[16] 一种嵌入式软件诊断系统及方法</font><br />
+<font color=blue>[17] 一种车漆缺陷位置检测方法</font><br />
+<font color=blue>[18] 一种利用色彩与音效主动调控驾驶员情绪的方法</font><br />
+<font color=blue>[19] 一种深度学习的汽车漆膜缺陷识别系统构建方法</font><br />
+<font color=blue>[20] 一种基于视觉人工智能的无人监管智能停车计费方法</font><br />
+<font color=blue>[21] 一种基于滑动窗口的激光雷达数据合成方法</font><br />
+<font color=blue>[22] 一种低线束激光雷达数据匹配多线束激光雷达模型的方法</font><br />
+<font color=blue>[23] 一种基于空间点云生成的激光雷达数据扩充方法</font><br />
+<font color=blue>[24] 嵌入式实时Linux与AUTOSAR OS的跨平台开发实现系统</font><br />
+<font color=blue>[25] 基于AUTOSAR的电动汽车传感器信号处理组件接口设计方法</font><br />
+<font color=blue>[26] 一种环视复用的车道线识别方法</font><br />
+<font color=blue>[27] 一种利用环视图像的车位识别方法</font><br />
+<font color=blue>[28] 一种基于驾驶习惯的车道偏离预警方法</font><br />
+<font color=blue>[29] 一种基于汽车油耗的路径规划方法</font><br />
+<font color=blue>[30] 一种基于神经网络模型热力图实现的人眼定位方法</font><br />
+<font color=blue>[31] 一种汽车前视双侧盲区可视化方法</font><br />
+<font color=blue>[32] 基于应对人眼的位置变化而对图形进行动态处理的方法</font><br />
+<font color=blue>[33] 一种汽车前视双侧盲区增强显示方法</font><br />
+<font color=blue>[34] 一种自适应的双目相机标定方法</font><br />
 
 吉林大学优秀学位论文：
 
