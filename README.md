@@ -28,7 +28,7 @@
 
 科研项目:
 
-<font color=blue>[1]异构开放嵌入式软件平台研究-1，国家重点研发项目，负责人</font><br />
+<font color=blue>[1]国家重点研发计划2017年度项目之“新能源汽车”专项（智能电动汽车电子电气架构研发-异构开放嵌入式软件平台研究-跨平台多源信息标准软件接口设计研究，负责人（嵌入式实时Linux与AUTOSAR OS的跨平台开发实现系统；基于AUTOSAR的电动汽车传感器信号处理组件接口设计方法）</font><br />
 <font color=blue>[2]基于机器学习的汽车协同式自适应巡航控制机理研究，国家自然基金项目，负责人</font><br />
 <font color=blue>[3]图像信息分类识别研究，中国第一汽车集团项目，负责人</font><br />
 <font color=blue>[4]多车协调编队形式的动态路径规划方法研究，中央高校专项项目，负责人</font><br />
@@ -37,6 +37,8 @@
 <font color=blue>[7]汽车A柱透视化可视软件，负责人</font><br />
 <font color=blue>[8]可内嵌MES的先进计划排程APS软件，负责人</font><br />
 <font color=blue>[9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人</font><br />
+<font color=blue>[10]A柱端整车盲区可视化系统，负责人</font><br />
+<font color=blue>[11]基于深度摄像头的活体和人脸检测算法技术研发与应用，负责人</font><br />
 
 学术论文：
 
@@ -79,7 +81,7 @@
 
 著作教材：
 
-<font color=blue>汽车软件开放式系统架构，机械工业出版社</font><br />
+<font color=blue>《汽车软件开放式系统架构》，机械工业出版社</font><br />
 
 获奖情况：
 
@@ -88,7 +90,7 @@
 </font><br />
 <font color=blue>[2] 车联网的可信数据通信与应用服务关键技术及应用，吉林省科学技术奖励委员会，吉林省科学技术奖，一等奖，2013
 </font><br />
-<font color=blue>发明专利12项，软件著作权10项</font><br />
+<font color=blue>发明专利29项，软件著作权10项</font><br />
 
 社会兼职：
 
