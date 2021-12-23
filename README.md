@@ -1,8 +1,7 @@
 <h1 style="text-align:center">机器视觉与智能计算</h1>
 
-![](https://s2.loli.net/2021/12/23/gNwSlKodYPyhVe1.jpg)
+![](https://s2.loli.net/2021/12/23/gNwSlKodYPyhVe1.jpg,w_300,h_300)
 
-<img src="./1.jpg" width = "300" height = "200" alt="1" align=center />
 
 学科专业:
 
