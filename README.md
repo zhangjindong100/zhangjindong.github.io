@@ -2,6 +2,8 @@
 
 ![](https://s2.loli.net/2021/12/23/gNwSlKodYPyhVe1.jpg)
 
+<img src="./1.jpg" width = "300" height = "200" alt="1" align=center />
+
 学科专业:
 
 <font color=blue>计算机应用技术</font><br />
