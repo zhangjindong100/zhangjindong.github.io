@@ -1,6 +1,6 @@
 <h1 style="text-align:center">机器视觉与智能计算</h1>
 
-<img src="C:\1.jpg" />
+![avatar](/Q/desktop/1.jpg)
 
 学科专业:
 
